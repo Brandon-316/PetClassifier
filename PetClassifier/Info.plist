@@ -41,5 +41,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>So that we can detect pets.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>So that we can detect pets.</string>
 </dict>
 </plist>
